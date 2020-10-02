@@ -1,5 +1,5 @@
 # scrapy_django
-A sample repository to show to how to use django project with scrapy
+A sample repository to show to how to use django project with scrapy django
 
 Read more about how i did it here:
 
